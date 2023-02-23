@@ -1,0 +1,19 @@
+소통
+html:   <i class="fa fa-comments-o"></i>              font awesome 
+css:     content:"\f0e6";                                    font awesome
+
+전화상담
+html:   <i class="fa fa-whatsapp"></i>                  font awesome 
+css:     content:"\f232";                                    font awesome 
+
+전문
+html:   <i class="fa fa-graduation-cap"></i>           font awesome 
+css:     content:"\f19d";                                    font awesome 
+
+봉사
+html:  <i class="fa fa-envira"></i>                       font awesome 
+css:    content:"\f299";                                     font awesome 
+
+진심
+html:  <i class="fa fa-heart"></i>                         font awesome
+css:    content:"\f004";                                      font awesome
